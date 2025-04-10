@@ -32,7 +32,7 @@ Predict the final sale price of houses based on a variety of features like size,
 
 ---house-price-prediction/ ├── notebook.ipynb # Jupyter notebook with full code and analysis
 ├── model.joblib # Final trained model (Random Forest) 
-├── sample_data.csv # (Optional) Sample dataset 
+├── sample_data.csv # Sample dataset 
 ├── requirements.txt # Python dependencies 
 ├── README.md # Project overview 
 └── .gitignore
